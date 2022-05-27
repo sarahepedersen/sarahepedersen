@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sarahepedersen. I'm a second-year student at Princeton University majoring in Computer Science. 
-- 👀 I’m interested in applications of computing in other scientific disciplines (using OOP in mathematical modeling). 
-- 🌱 I’m currently learning Introductions to Programming Systems (COS 217 @ Princeton University). 
-- 📫 Reach me at sarahepedersen7@gmail.com. 
+- 👋 Hi, I’m @sarahepedersen. I'm a third-year student at Princeton University majoring in Computer Science. 
+- 👀 I’m currently an Explore intern at Microsoft (PM/SWE) working on Mixed Reality mobile experiences in PowerApps.
+- 🌱 I’m currently learning JavaScript. 
 
 <!---
 sarahepedersen/sarahepedersen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
