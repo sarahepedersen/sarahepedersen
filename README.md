@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sarahepedersen. I'm a third-year student at Princeton University majoring in Computer Science. 
-- 👀 I am an incoming Software Engineering intern at Microsoft working on the Windows Build. I was previously an Explore intern at Microsoft (PM/SWE) working on Mixed Reality mobile experiences in PowerApps.
-- 🌱 I’m currently learning JavaScript, Server-Side Programming in Python, Go, and introductory machine learning. 
+- 👋 Hi, I’m @sarahepedersen. I'm a fourth-year student at Princeton University majoring in Computer Science. 
+- 👀 I am an incoming Software Engineer at Microsoft working on Engineering Systems in Azure E+P. I was previously an Explore intern at Microsoft (PM/SWE) working on Mixed Reality mobile experiences in PowerApps, and a SWE intern working on optimizing the Windows Build. 
+- 🌱 I’m currently learning Distributed Systems. 
 
 <!---
 sarahepedersen/sarahepedersen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
