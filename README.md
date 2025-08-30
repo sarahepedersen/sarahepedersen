@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sarahepedersen. I'm a fourth-year student at Princeton University majoring in Computer Science. 
-- 👀 I am an incoming Software Engineer at Microsoft working on Engineering Systems in Azure E+P. I was previously an Explore intern at Microsoft (PM/SWE) working on Mixed Reality mobile experiences in PowerApps, and a SWE intern working on optimizing the Windows Build. 
-- 🌱 I’m currently learning Distributed Systems. 
+- 👋 Hi, I’m @sarahepedersen. I'm a first-year Sociology PhD student at Princeton University. I consider myself a C# wizard who is slowly shifting into R mode.
+- 🌱 I was previously a Software Engineer II at Microsoft working on Engineering Systems in Azure E+P. In this role, I worked on the Windows Composition Database to inform OS composition for developers across Windows, Xbox, Azure, and more. 
 
 <!---
 sarahepedersen/sarahepedersen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
