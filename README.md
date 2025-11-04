@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarahepedersen. I'm a first-year Sociology PhD student at Princeton University. I consider myself a C# wizard who is slowly shifting into R mode.
+- 👋 Hi, I’m @sarahepedersen. I'm a first-year Sociology PhD student at Princeton University.
 - 🌱 I was previously a Software Engineer II at Microsoft working on Engineering Systems in Azure E+P. In this role, I worked on the Windows Composition Database to inform OS composition for developers across Windows, Xbox, Azure, and more. 
 
 <!---
